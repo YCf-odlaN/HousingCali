@@ -20,7 +20,7 @@ Based on Chapter 2 of "Hands-On Machine Learning with Scikit-Learn, Keras, and T
 🚀 Quick Start
 Run the Project
 
-    Download the Data (no need to upload housing.csv to GitHub):
+    Download the Data:
     python
     Copy
 
