@@ -54,15 +54,6 @@ Key Findings
     Decision Tree	~$66,868
     Random Forest	~$41,424
 
-Repository Structure
-Copy
-
-.
-├── notebooks/                          # Jupyter notebooks
-│   └── end_to_end_ml_project.ipynb     # Full analysis and code
-├── data/                               # Dataset (auto-downloaded, excluded via .gitignore)
-├── .gitignore                          # Ignores data/, models/, etc.
-└── README.md                           # You are here!
 
 License
 
