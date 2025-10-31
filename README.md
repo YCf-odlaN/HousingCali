@@ -17,7 +17,7 @@ Based on Chapter 2 of "Hands-On Machine Learning with Scikit-Learn, Keras, and T
 
         Best Model: Random Forest Regressor achieved a test RMSE of ~$41,424.
 
-🚀 Quick Start
+Quick Start
 Run the Project
 
     Download the Data:
@@ -41,7 +41,7 @@ Run the Project
 
     jupyter notebook notebooks/end_to_end_ml_project.ipynb
 
-🔍 Key Findings
+Key Findings
 
     Top Predictor: median_income had the strongest correlation with housing prices.
 
@@ -53,7 +53,7 @@ Run the Project
     Decision Tree	~$66,868
     Random Forest	~$41,424
 
-🗂️ Repository Structure
+Repository Structure
 Copy
 
 .
@@ -63,10 +63,10 @@ Copy
 ├── .gitignore                          # Ignores data/, models/, etc.
 └── README.md                           # You are here!
 
-📜 License
+License
 
 This project is licensed under the MIT License. See LICENSE for details.
-🙏 Acknowledgements
+Acknowledgements
 
     Dataset sourced from Aurélien Géron’s GitHub.
 
