@@ -3,7 +3,8 @@ California Housing Prices Prediction
 
 Predict median housing prices in California districts using machine learning.
 Based on Chapter 2 of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
-📋 Project Summary
+
+Project Summary
 
     Goal: Build a model to predict median housing prices using 1990 California census data.
 
